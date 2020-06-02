@@ -1,0 +1,1 @@
+print(int('1' * bin(int(input()))[2:].count('1'), 2))
